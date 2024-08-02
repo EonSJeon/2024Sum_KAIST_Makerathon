@@ -3,9 +3,11 @@
 Team Member: Sangeon Jeon(Leader), Sehyeon Kim, Byeongyoung Jeong, Yujin Park
 
 <img src="https://github.com/user-attachments/assets/804e9f90-7494-4601-8eb0-df9ac04e674b" alt="(포스터) 2024 KAIST 메이커톤" width="600"/>
+
 https://kaistmaker.notion.site/2024-KAIST-a24d5c5c184348f383662ddceae37b1f
 
-<p style="font-size:20pt; color:red;">Won the top award with $2000.</p>
+<p style="font-size:20; color:red;">Won the top award with $2000.</p>
+
 <img src="https://github.com/user-attachments/assets/ffdb17ce-38db-4353-b5cd-5516eb249b47" alt="Award" width="400"/>
 
 
