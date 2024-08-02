@@ -6,6 +6,8 @@ The project is for Makerathon held by KAIST Ideafactory.
 
 ![(포스터) 2024 KAIST 메이커톤](https://github.com/user-attachments/assets/804e9f90-7494-4601-8eb0-df9ac04e674b)
 
+https://kaistmaker.notion.site/2024-KAIST-a24d5c5c184348f383662ddceae37b1f
+
 Download zip file from https://drive.google.com/drive/folders/18IRY2AfHl9cmScwam55FEvZh57e8WAxe
 unzip it and substitute the files correspondingly.
 
